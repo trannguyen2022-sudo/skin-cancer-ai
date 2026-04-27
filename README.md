@@ -44,8 +44,7 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
     +
 3. Evaluation:
 4. Explainability:
-
-
+5. Links: 
 
 
 
