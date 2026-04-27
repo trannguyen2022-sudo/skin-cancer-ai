@@ -2,7 +2,7 @@
 # AI-Assisted Skin Cancer Detection System
 
 
-Team members 
+**Team members 
 - Micen Desjardins
 - Tran Nguyen
 - Ashley Holness
