@@ -1,6 +1,14 @@
 # skin-cancer-ai
 # AI-Assisted Skin Cancer Detection System
 
+
+##Team members 
+- Micen Desjardins
+- Tran Nguyen
+- Ashley Holness
+- Toufique Ahmed
+- Sarah Abuadas
+
 ## Overview
 This project uses artificial intelligence to assist in the early detection of skin cancer through image classification with deep learning and explainable AI. The system uses MobileNetV2 with transfer learning to classify skin lesion images as benign or malignant. The goal is to support early diagnosis and improve patient outcomes by providing fast and reliable predictions.
 
