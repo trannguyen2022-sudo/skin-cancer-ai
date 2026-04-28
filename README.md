@@ -69,7 +69,7 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
 + Overall, the model shows strong potential as a supportive screening tool, though further validation and improvement are needed for real-world use.
 
 ## Conclusion 
-In conclusion, this project demonstrates the potential of AI in improving early detection of skin cancer using deep learning. The model achieved approximately 82% accuracy, showing its ability to distinguish between benign and malignant lesions. While it is not a replacement for medical professionals, it can significantly assist in diagnosis and help support faster, more accessible screening. With further improvements, this approach has the potential to contribute to better patient outcomes and potentially save lives.
+In conclusion, this project demonstrates the potential of AI in improving early detection of skin cancer using deep learning. The model achieved approximately 77% accuracy, showing its ability to distinguish between benign and malignant lesions. While it is not a replacement for medical professionals, it can significantly assist in diagnosis and help support faster, more accessible screening. With further improvements, this approach has the potential to contribute to better patient outcomes and potentially save lives.
 
 ## Links:
 Google Collab: https://colab.research.google.com/drive/1bpAoKoNzt9mB4ojcODF8yygnJNX9P3ei?usp=sharing
