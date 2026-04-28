@@ -51,10 +51,10 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
     
 3. Evaluation:
    + Metrics:
-       - Accuracy
-       - Precision
-       - Recall
-       - F1-score
+       - Accuracy: 77%
+       - Precision (Malignant): 45%
+       - Recall (Malignant): 84%
+       - F1-score (Malignant): 59%
    + Confusion Matrix used to analyze classification performance
    + Precision-Recall curve used due to class imbalance
      
