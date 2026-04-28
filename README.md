@@ -26,6 +26,7 @@ Dataset: HAM10000
 + Source: Kaggle
 + Reason: This dataset is widely used in medical imaging research and provides a strong foundation for training classification models.
 
+## Model
 Model: MobileNetV2 with Transfer Learning on ImageNet
 + Fast, lightweight, mobile-friendly
 + Transfer Learning is applied by using pre-trained weights, allowing the model to efficiently learn complex visual patterns in medical images.
