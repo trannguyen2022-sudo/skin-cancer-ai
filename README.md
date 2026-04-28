@@ -48,8 +48,6 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
 
 ## Links:
 Google Collab:[ https://colab.research.google.com/drive/1bpAoKoNzt9mB4ojcODF8yygnJNX9P3ei?usp=sharing](url)
-Powerpoint: [https://colab.research.google.com/drive/1bpAoKoNzt9mB4ojcODF8yygnJNX9P3ei?usp=sharing](url)
-
- 
+Powerpoint: https://1drv.ms/p/c/bd672e9d0a8f5bcd/IQBvW_EbyrBfQL3DRyIo_jhSAWDwjCaaZNZCGnMO19edr2k?e=d4z2u4
 
 
