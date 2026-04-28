@@ -14,7 +14,7 @@ This project uses artificial intelligence to assist in the early detection of sk
 
 THIS IS NOT A MEDICAL DIAGNOSIS TOOL.
 
-## Objective
+## Objectives
 + The Problem: Skin cancer is among the most common cancers worldwide. Manual diagnosis depends on specialist availability, which is limited in many regions.
 + Why It Matters: Early detection dramatically improves survival rates. Millions lack timely access to dermatology expertise, especially in underserved areas
 + Our Goal: Build an AI screening tool that analyzes skin lesion images, predicts benign or malignant, and explains its reasoning. This improve early detection of skin cancer, and provide interpretable results that can assist healthcare professionals in decision-making.
