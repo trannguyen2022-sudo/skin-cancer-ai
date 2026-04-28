@@ -56,7 +56,11 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
        - Recall (Malignant): 84%
        - F1-score (Malignant): 59%
    + Confusion Matrix used to analyze classification performance
+   ### Confusion Matrix
+   ![Confusion Matrix](./Images/confusionMatrix.jpg)
    + Precision-Recall curve used due to class imbalance
+   ### Precision-Recall Curve
+   ![Precision Recall Curve](./Images/ROC_PR.jpg)
      
 4. Explainability:
    + Grad-CAM (Gradient-weighted Class Activation Mapping) used
@@ -64,7 +68,7 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
    + Helps interpret model decisions and improve trust
 
 ## Results 
-+ The model achieved approximately 82% accuracy on the test set, demonstrating effective classification performance.
++ The model achieved approximately 77% accuracy on the test set, demonstrating effective classification performance.
 + Higher recall for the malignant class was prioritized to reduce false negatives, which is critical in medical screening.
 + Overall, the model shows strong potential as a supportive screening tool, though further validation and improvement are needed for real-world use.
 
