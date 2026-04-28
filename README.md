@@ -41,10 +41,33 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
    + Data Augmentation: flip/rotate/zoom
    + Split the data into training, validation, and test sets
      
-2. Model Trainning:
-    +
+2. Model Training:
+   + Pretrained MobileNetV2 used as feature extractor (ImageNet weights)
+   + Top classification layers added (Dense + Dropout)
+   + Optimizer: Adam
+   + Loss: Binary Crossentropy
+   + Class imbalance handled using class weights
+   + EarlyStopping and ReduceLROnPlateau used to prevent overfitting
+    
 3. Evaluation:
+   + Metrics:
+       - Accuracy
+       - Precision
+       - Recall
+       - F1-score
+   + Confusion Matrix used to analyze classification performance
+   + Precision-Recall curve used due to class imbalance
+     
 4. Explainability:
+   + Grad-CAM (Gradient-weighted Class Activation Mapping) used
+   + Highlights regions of the image influencing predictions
+   + Helps interpret model decisions and improve trust
+
+## Results 
++ Model achieved ~X% accuracy on test set
++ Higher recall for malignant class is prioritized to reduce false negatives
++ Model demonstrates potential as a screening tool but requires further validation
+
 
 
 ## Links:
