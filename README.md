@@ -82,6 +82,6 @@ Google Collab: https://colab.research.google.com/drive/1bpAoKoNzt9mB4ojcODF8yygn
 
 Powerpoint: https://1drv.ms/p/c/bd672e9d0a8f5bcd/IQBvW_EbyrBfQL3DRyIo_jhSAWDwjCaaZNZCGnMO19edr2k?e=d4z2u4
 
-Youtube video:
+Youtube video: https://youtu.be/MFrjCGZnBNg
 
 
