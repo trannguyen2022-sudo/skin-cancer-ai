@@ -56,14 +56,16 @@ Model: MobileNetV2 with Transfer Learning on ImageNet
        - Recall (Malignant): 84%
        - F1-score (Malignant): 59%
    + Confusion Matrix used to analyze classification performance
-   ### Confusion Matrix
+   #### Confusion Matrix
    ![Confusion Matrix](./Images/confusionMatrix.jpg)
    + Precision-Recall curve used due to class imbalance
-   ### Precision-Recall Curve
+   #### Precision-Recall Curve
    ![Precision Recall Curve](./Images/ROC_PR.jpg)
      
 4. Explainability:
    + Grad-CAM (Gradient-weighted Class Activation Mapping) used
+   #### Grad-CAM
+   ![Grad Cam](./Images/Grad-CAM.png)
    + Highlights regions of the image influencing predictions
    + Helps interpret model decisions and improve trust
 
